@@ -1,0 +1,43 @@
+@charset "utf-8";
+
+.logotext{
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 3em;
+    text-align: justify;
+    color: rgb(50, 176, 218);
+    text-align: center;
+}
+
+.text h2{
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 2em;
+    text-align: justify;
+    color: black;
+    font-weight: 600;
+}
+
+.text h3{
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 2em;
+    text-align: justify;
+    color: black;
+    z-index: 3;
+    font-weight: 600;
+}
+
+.text h4{
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 2em;
+    text-align: justify;
+    color: black;
+    z-index: 3;
+    font-weight: 600;
+}
+
+.text{
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 2.5em;
+    text-align: justify;
+    color: black;
+    font-weight: 400;
+}
